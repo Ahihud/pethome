@@ -1,0 +1,8 @@
+1.新建一个maven项目
+2.导包    准备数据  sql
+3.准备包结构——编写domain，，mapper......，写yml文件
+4.测试（springboot本地测试）
+
+lombok：
+    1.导包
+    2.安装下载lombok插件
